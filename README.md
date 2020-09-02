@@ -7,3 +7,6 @@ RCO is my first fully published project. Before releasing RCO I had only ever me
 I'm currently learning HTML/CSS, Express.JS and EJS.
 I'm always looking for pointers in the right direction when it comes to coding.
 Feel free to contact me with any questions => [Twitter](https://twitter.com/_VAL_Is_Me_) or Discord: VAL#0001
+
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RCO-BOT&show_icons=true&hide_border=true" />
