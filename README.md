@@ -4,7 +4,7 @@ I am the lead developer for the Discord bot [RCO - Roblox Case Opener](https://r
 
 RCO is my first fully published project. Before releasing RCO I had only ever messed around with JavaScript and watched a few online courses.
 
-I'm currently learning HTML/CSS, Express.JS and EJS.
+I'm currently learning HTML/CSS and EJS.
 I'm always looking for pointers in the right direction when it comes to coding.
 Feel free to contact me with any questions => [Twitter](https://twitter.com/_VAL_Is_Me_) or Discord: VAL#0001
 
