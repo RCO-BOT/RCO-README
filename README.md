@@ -11,3 +11,5 @@ Feel free to contact me with any questions => [Twitter](https://twitter.com/_VAL
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RCO-BOT&theme=dark&show_icons=true&count_private=true&hide_border=true" />
 <img align="left" alt="Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCO-BOT&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
+
+![RCO-BOT github stats](https://github-readme-stats.vercel.app/api?username=RCO-BOT&count_private=true)
