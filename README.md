@@ -6,6 +6,7 @@ I often work along side the amazing [SUPERCHIEF](https://github.com/Elara-Discor
 I'm always looking for pointers in the right direction when it comes to coding, I love learning new development skills!
 Feel free to contact me with any questions [Twitter](https://twitter.com/_VAL_Is_Me_) or Discord: VAL#0001
 
+![](https://komarev.com/ghpvc/?username=ValAlpha&color=blueviolet)
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ValAlpha&show_icons=true&hide_border=true&count_private=true"/>
 
