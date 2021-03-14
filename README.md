@@ -13,8 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValAlpha/](https://github.com/ValAlpha/)
 
-- 📫 How to reach me: <br>
- •Discord: VAL#0001
+- 📫 How to reach me:  <br>
+ • Discord: VAL#0001 <br>
+ • [Discord Server](https://discord.gg/qDTEmWN3tW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
