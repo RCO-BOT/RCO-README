@@ -10,4 +10,4 @@ Feel free to contact me with any questions [Twitter](https://twitter.com/_VAL_Is
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ValAlpha&show_icons=true&hide_border=true&count_private=true"/>
 
-<img align="left" alt="Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValAlpha&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValAlpha&langs_count=4&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/ValAlpha/github-readme-stats)
