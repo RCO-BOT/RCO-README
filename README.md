@@ -15,7 +15,7 @@
 
 - 📫 How to reach me:  <br>
  • Discord: VAL#0001 <br>
- • [Discord Server](https://discord.gg/qDTEmWN3tW)
+ • [Discord Server](https://discord.gg/RswMYNwp9c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
