@@ -14,8 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ValAlpha/](https://github.com/ValAlpha/)
 
 - 📫 How to reach me:  <br>
- • Discord: VAL#0001 <br>
- • [Discord Server](https://discord.gg/RswMYNwp9c)
+ • [Discord Server](https://discord.gg/RswMYNwp9c) TAG: VAL#0001<br>
+ • Email: ValAlpha.dev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
