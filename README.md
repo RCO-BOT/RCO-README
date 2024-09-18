@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/_val_is_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_val_is_me_?logo=twitter&style=for-the-badge" alt="_val_is_me_" /></a> </p>
 
-- 🔭 I’m currently working on [an open source Discord.js-commando Discord bot](https://github.com/ValAlpha/TemplateBot)
+- 🔭 I’m currently working on an economy bot for Discord! Stay tuned! 🤭
 
 - 🌱 I’m currently learning **HTML & CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValAlpha/](https://github.com/ValAlpha/)
 
 - 📫 How to reach me:  <br>
- • [Discord Server](https://discord.gg/RswMYNwp9c) TAG: VAL#0001<br>
+ • Discord tag: VAL<br>
  • Email: ValAlpha.dev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
